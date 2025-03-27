@@ -1,0 +1,9 @@
+{
+    "node" : [
+        "YOUR_NODE"
+    ],
+    "agent_key" : "YOUR_AGENT_KEY",
+    "private_key" : "YOUR_PRIVATE_KEY",
+    "eth_to_swap" : "0.0000001",
+    "wait" : 30
+}
