@@ -1,6 +1,6 @@
 Overview
-This program automatically buys a specified token created on the Creator.bid platform at regular intervals. It helps tokens remain at the top of the bump order list on Creator.bid by generating frequent, small transactions. Even if a token has migrated to a DEX like Uniswap, the program will still recognize and interact with it. The program is designed to simulate a live market, which improves visibility and engagement for tokens.
-
+**This program automatically buys a specified token created on the Creator.bid platform at regular intervals. It helps tokens remain at the top of the bump order list on Creator.bid by generating frequent, small transactions. Even if a token has migrated to a DEX like Uniswap, the program will still recognize and interact with it. The program is designed to simulate a live market, which improves visibility and engagement for tokens.
+**
 Features
 Automatic purchase of specified tokens at set intervals.
 
