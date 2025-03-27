@@ -104,4 +104,4 @@ The program respects the 30-second minimum delay between purchases, as required 
 ### Node Connection:
 Ensure that your Ethereum node is accessible and operational to facilitate transactions.
 
-You can also use this script via telegram bot:https://t.me/TokenBusterBot
+- You can also use this script via telegram bot: https://t.me/TokenBusterBot
